@@ -20,7 +20,7 @@ Si vous avez des besoins spécifiques ou souhaitez prendre en charge des fonctio
 
 ## Démo
 
-https://github.com/RaphaelNJ/md2html.rs/assets/102818995/e935f830-3ed1-4967-b89e-3e580afb30ca
+https://github.com/RaphaelNJ/md2html.rs/assets/52333330/31f13841-4e6f-4e0e-9f2a-62448dd966fc
 
 ## Prérequis
 
